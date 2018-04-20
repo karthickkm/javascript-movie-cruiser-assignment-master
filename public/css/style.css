@@ -1,0 +1,11 @@
+body {
+	margin: 0;
+}
+
+.item-list {
+	padding:0.5em;
+}
+
+.fa-heart {
+	color:red;
+}
