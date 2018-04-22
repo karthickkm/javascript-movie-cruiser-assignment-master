@@ -9,3 +9,29 @@ body {
 .fa-heart {
 	color:red;
 }
+
+.item-container {
+	/* display: flex;
+	width: 100%; */
+	background-color: beige;
+	border: 1px solid red;
+}
+
+.movie-disp {
+	/* width:50%; */
+	padding: 0.8em;
+}
+
+.like {
+	text-align: center; 
+}
+
+.fa-heart {
+	font-size:2em;
+}
+
+.img-response {
+	max-width: 100%; 
+	/* display:block;  */
+	height: auto;
+}
